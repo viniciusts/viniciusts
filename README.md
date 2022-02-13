@@ -6,4 +6,4 @@
 
 # Where to find me
 
-- Here is my <a href="https://www.linkedin.com/in/vin%C3%ADcius-torres-a58269126/">Linkedin</a>
+- Here is my [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-torres-a58269126/)
