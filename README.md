@@ -1,8 +1,7 @@
 # Hi There 🤙
 
 - 😄 I'm Vinícius Torres, I'm a computer scientist.
-- 🔭 I’m currently working on dti digital.
-- ⚽ I like soccer a lot. My favorite team is Atlético Mineiro and whenever I can, I play soccer too.
+- 🔭 I’m currently working on dexpay.
 
 # Where to find me
 
